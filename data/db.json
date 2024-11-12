@@ -1,0 +1,52 @@
+{
+  "blogs":[
+    {
+      "id": 1,
+      "blogName": "Tech Trends 2024",
+      "authorName": "Alice Smith",
+      "body": "In 2024, AI continues to shape the tech landscape with advancements in machine learning and automation."
+    },
+    {
+      "id": 2,
+      "blogName": "The Future of Space Exploration",
+      "authorName": "John Doe",
+      "body": "The next decade will see major advancements in space exploration, with new missions to Mars and beyond."
+    },
+    {
+      "id": 3,
+      "blogName": "Healthy Living Tips",
+      "authorName": "Sarah Lee",
+      "body": "Staying healthy is more than just exercise. A balanced diet and mental health are also key components."
+    },
+    {
+      "id": 4,
+      "blogName": "Traveling the World",
+      "authorName": "Michael Brown",
+      "body": "Exploring new destinations can open your mind to different cultures, creating life-changing experiences."
+    },
+    {
+      "id": 5,
+      "blogName": "Financial Freedom",
+      "authorName": "Emily Clark",
+      "body": "Achieving financial freedom requires careful planning, budgeting, and smart investment choices."
+    },
+    {
+      "id": 6,
+      "blogName": "Sustainable Fashion",
+      "authorName": "David Johnson",
+      "body": "Sustainability is the future of fashion. Choosing eco-friendly brands and reducing waste is essential."
+    },
+    {
+      "id": 7,
+      "blogName": "Mastering Photography",
+      "authorName": "Olivia Davis",
+      "body": "Photography is an art. Learn to capture the perfect moment by understanding lighting, composition, and technique."
+    },
+    {
+      "id": 8,
+      "blogName": "The Digital Age of Education",
+      "authorName": "James Wilson",
+      "body": "The digital revolution is transforming education, making learning more accessible and interactive for students worldwide."
+    }
+  ]
+}
